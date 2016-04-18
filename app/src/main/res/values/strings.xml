@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FSTEP</string>
+    <string name="hello_world">Hello again!</string>
+    <string name="button_1_text">You Clicked!</string>
+    <string name="button_2_text">Another one!</string>
+
+</resources>
